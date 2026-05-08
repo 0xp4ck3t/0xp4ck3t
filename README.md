@@ -16,26 +16,33 @@ I build tools around:
 - Improving cloud operations with automation
 - Writing practical tools for engineers and learners
 
-## Tech I Work With
+---
 
-AWS · Python · Linux · Docker · Kubernetes · GitHub Actions · Amazon Bedrock · Terraform · Bash
+## 🛠️ Tech Stack
 
-## Featured Projects
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+
+---
+
+## 🚀 Current Projects
 
 ### Liksyon
-A terminal-based tool that turns learning material into flashcards using AI.
+Terminal-based AI flashcard generator for turning learning material into reviewable flashcards.
 
-Repo: `github.com/0xp4ck3t/liksyon`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TUI](https://img.shields.io/badge/TUI-Terminal-black?style=flat-square)
+![AI](https://img.shields.io/badge/AI-Powered-6E40C9?style=flat-square)
 
-## Certifications
+---
 
-- AWS Certified Generative AI Developer – Professional
-- AWS Certified Developer – Associate
-- AWS Certified Solutions Architect – Associate
-- AWS Certified SysOps Administrator – Associate
-- Certified Kubernetes Administrator
+## 📫 Connect
 
-## Connect
-
-LinkedIn: https://www.linkedin.com/in/bryansioco/
-GitHub: [0xp4ck3t](https://github.com/0xp4ck3t)
+[![GitHub](https://img.shields.io/badge/GitHub-0xp4ck3t-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xp4ck3t)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan_Sioco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryansioco/)
