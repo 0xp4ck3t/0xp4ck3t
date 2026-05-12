@@ -42,5 +42,5 @@ Terminal-based AI flashcard generator for turning learning material into reviewa
 
 ## 📫 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-0xp4ck3t-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xp4ck3t)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan_Sioco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryansioco/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Sioco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryansioco/)
+[![Website](https://img.shields.io/badge/Website-0xpacket.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://0xpacket.com)
