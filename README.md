@@ -42,5 +42,5 @@ Terminal-based AI flashcard generator for turning learning material into reviewa
 
 ## 📫 Connect
 
-[![Website](https://img.shields.io/badge/santifer.io-000?style=for-the-badge&logo=safari&logoColor=white)](https://0xpacket.com)
+[![Website](https://img.shields.io/badge/0xpacket.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://0xpacket.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bryansioco)
